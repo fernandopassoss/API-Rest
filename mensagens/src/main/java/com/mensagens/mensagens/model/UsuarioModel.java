@@ -78,6 +78,6 @@ public class UsuarioModel {
         this.senha = senha;
     }
 
-    
+ 
 
 }

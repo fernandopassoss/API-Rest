@@ -10,6 +10,7 @@ import jakarta.persistence.Table;
 @Entity
 @Table(name = "grupos")
 public class GrupoModel {
+    
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;

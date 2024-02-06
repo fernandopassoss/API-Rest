@@ -1,6 +1,6 @@
 package com.mensagens.mensagens.model;
 
-import org.hibernate.annotations.Collate;
+
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
